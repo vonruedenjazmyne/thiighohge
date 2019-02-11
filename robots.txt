@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiquohv.design4cake.com/sitemap.xml
